@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LLM-Powered Chatbot and Web Scraper with LangChain
 
 This project demonstrates a LangChain-powered application that uses the Llama2 LLM model for generating responses to user queries. The application is implemented in two parts:
@@ -95,3 +96,6 @@ Specifies dependencies such as LangChain, OpenAI, and Streamlit for running the 
 ## License
 
 This project is licensed under the MIT License.
+=======
+# LLM
+>>>>>>> e2b520007e9a558588488902927ecc047ba8d10e
